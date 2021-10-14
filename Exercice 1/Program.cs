@@ -14,7 +14,7 @@ namespace Exercice_1
             int age;
 
             // Saisie des trois infos
-            Console.Write("Entrez votre prénom : ");
+            Console.Write("Entrez votre prénoms : ");
             prenom = Console.ReadLine();
             Console.Write("Entrez votre nom : ");
             nom = Console.ReadLine();
